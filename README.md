@@ -10,7 +10,7 @@
 查看[ Rss-Translation ](https://tjsky.github.io/Rss-Translation)使用[ 教程 ](https://github.com/talengu/rss-translate/issues/2)修改自[ rss-translate ](https://github.com/talengu/rss-translate)
 
 ## 已转换翻译源
- - source001 [https://www.nature.com/nature.rss](https://www.nature.com/nature.rss) -> [Nature_Nature](rss/Nature_Nature)
+
  - source001 [https://www.nature.com/nature.rss](https://www.nature.com/nature.rss) -> [Nature_Nature.xml](rss/Nature_Nature.xml)
  - source002 [http://feeds.bbci.co.uk/news/rss.xml](http://feeds.bbci.co.uk/news/rss.xml) -> [BBC_News_Top_Stories.xml](rss/BBC_News_Top_Stories.xml)
  - source003 [https://pubs.acs.org/editorschoice/feed/rss](https://pubs.acs.org/editorschoice/feed/rss) -> [ACS_Editor_Choice.xml](rss/ACS_Editor_Choice.xml)
