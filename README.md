@@ -7,7 +7,7 @@
 
 在 [test.ini](https://github.com/tjsky/Rss-Translation/blob/main/test.ini) 中提交以转换订阅，转换[rss to json](https://rss2json.com/)
 
-查看[ Rss-Translation ](https://tjsky.github.io/Rss-Translation)使用[ 教程 ](https://github.com/talengu/rss-translate/issues/2)修改自[ rss-translate ](https://github.com/talengu/rss-translate)
+查看[ Rss-Translation ](https://tjsky.github.io/RSS-Translation)使用[ 教程 ](https://github.com/talengu/rss-translate/issues/2)修改自[ rss-translate ](https://github.com/talengu/rss-translate)
 
 ## 已转换翻译源
 
