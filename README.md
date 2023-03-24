@@ -11,5 +11,6 @@
 
 ## 已转换翻译源
  - source001 [https://www.nature.com/nature.rss](https://www.nature.com/nature.rss) -> [Nature_Nature](rss/Nature_Nature)
- - source002 [http://feeds.bbci.co.uk/news/rss.xml](http://feeds.bbci.co.uk/news/rss.xml) -> [BBC_News_Top_Stories](rss/BBC_News_Top_Stories)
- - source003 [https://pubs.acs.org/editorschoice/feed/rss](https://pubs.acs.org/editorschoice/feed/rss) -> [ACS_Editor_Choice](rss/ACS_Editor_Choice)
+ - source001 [https://www.nature.com/nature.rss](https://www.nature.com/nature.rss) -> [Nature_Nature.xml](rss/Nature_Nature.xml)
+ - source002 [http://feeds.bbci.co.uk/news/rss.xml](http://feeds.bbci.co.uk/news/rss.xml) -> [BBC_News_Top_Stories.xml](rss/BBC_News_Top_Stories.xml)
+ - source003 [https://pubs.acs.org/editorschoice/feed/rss](https://pubs.acs.org/editorschoice/feed/rss) -> [ACS_Editor_Choice.xml](rss/ACS_Editor_Choice.xml)
