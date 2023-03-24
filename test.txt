@@ -2,44 +2,23 @@
 base = "rss/"
 
 [source001]
-name = "reddit_automation.xml"
-url = "https://www.reddit.com/r/automation.rss"
-max = "20"
-md5 = "2da0a3e7298da650d46a1620b5d2cd86"
+name = "Nature_Nature"
+url = "https://www.nature.com/nature.rss"
+max = "10"
+md5 = ""
 action = "auto"
 
 [source002]
-name = "reddit_productivity.xml"
-url = "https://www.reddit.com/r/productivity.rss"
-max = "20"
-md5 = "a2a1064c3635bbb2e8b2fee688d5a286"
+name = "BBC_News_Top_Stories"
+url = "http://feeds.bbci.co.uk/news/rss.xml"
+max = "10"
+md5 = ""
 action = "auto"
 
-[source003]
-name = "reddit_OpenAI.xml"
-url = "https://www.reddit.com/r/OpenAI/new.rss"
-max = "20"
-md5 = "d72c1201e84895c85190d5a607dab8ec"
-action = "auto"
-
-[source004]
-name = "reddit_ChatGPT.xml"
-url = "https://www.reddit.com/r/ChatGPT/new.rss"
-max = "20"
-md5 = "9d32d7acbab6407a42dd5d038bc5e2e0"
-action = "auto"
-
-[source005]
-name = "reddit_GPT3.xml"
-url = "https://www.reddit.com/r/GPT3/new.rss"
-max = "20"
-md5 = "4b6c5ad013caeab281c7996ff0e9d0fa"
-action = "auto"
-
-[source006]
-name = "reddit_GPT4.xml"
-url = "https://www.reddit.com/r/GPT4/new.rss"
-max = "20"
-md5 = "c9e54516cc7d07cc889d12edc7fa2285"
+[source002]
+name = "ACS_Editor_Choice"
+url = "https://pubs.acs.org/editorschoice/feed/rss"
+max = "10"
+md5 = ""
 action = "auto"
 
