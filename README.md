@@ -11,6 +11,6 @@
 
 ## 已转换翻译源
 
- - source001 [https://www.nature.com/nature.rss](https://www.nature.com/nature.rss) -> [Nature_Nature.xml](rss/Nature_Nature.xml)
- - source002 [http://feeds.bbci.co.uk/news/rss.xml](http://feeds.bbci.co.uk/news/rss.xml) -> [BBC_News_Top_Stories.xml](rss/BBC_News_Top_Stories.xml)
- - source003 [https://pubs.acs.org/editorschoice/feed/rss](https://pubs.acs.org/editorschoice/feed/rss) -> [ACS_Editor_Choice.xml](rss/ACS_Editor_Choice.xml)
+ - source001 [http://www.mckinsey.com/insights/rss](http://www.mckinsey.com/insights/rss) -> [mckinsey_rss.xml](rss/mckinsey_rss.xml)
+ - source002 [http://www.mckinsey.com/insights/rss](http://www.mckinsey.com/insights/rss) -> [mckinsey_iw_rss.xml](rss/mckinsey_iw_rss.xml)
+ - source003 [http://rss.acast.com/nature](http://rss.acast.com/nature) -> [nature_rss.xml](rss/nature_rss.xml)
